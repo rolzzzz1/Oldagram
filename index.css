@@ -67,3 +67,7 @@ header {
   padding-right: 10px;
   opacity: 0.9;
 }
+
+.icons:hover {
+  transform: scale(1.5);
+}
