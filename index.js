@@ -30,5 +30,5 @@ const posts = [
 ];
 
 let avatarImg = document.getElementById("avatar_img");
-
+console.log(avatarImg);
 avatarImg.src = "images/avatar-courbet.jpg";
